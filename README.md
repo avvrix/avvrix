@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/647a4b108b7ff31e46bf79f3?variant=dark&roadmaps=cpp)](https://roadmap.sh)
 <!--
 **avvrix/avvrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
